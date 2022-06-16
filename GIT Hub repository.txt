@@ -7,3 +7,5 @@ Last seen code
 settings code
 
 sharing media code
+
+last seen hide code
